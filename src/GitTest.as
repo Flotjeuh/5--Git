@@ -7,6 +7,9 @@ package
 		public function GitTest()
 		{
 			super();
+			
+			// The edit
+			
 			trace("boe");
 		}
 	}
